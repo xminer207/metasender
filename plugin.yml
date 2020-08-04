@@ -1,0 +1,3 @@
+name: metasender
+main: meta.main.metasender 
+version: 0.1
